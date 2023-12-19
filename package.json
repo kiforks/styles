@@ -1,0 +1,24 @@
+{
+  "name": "styles",
+  "version": "0.0.1",
+  "description": "Tenant cloud styles",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiforks/styles.git"
+  },
+  "keywords": [
+    "tenantcloud",
+    "tc",
+    "styles"
+  ],
+  "author": "Kostiantyn Kifor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiforks/styles/issues"
+  },
+  "homepage": "https://github.com/kiforks/styles#readme"
+}
